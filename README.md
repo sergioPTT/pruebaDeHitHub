@@ -1,2 +1,3 @@
 # pruebaDeHitHub
-esto es una prueba de hitHUb
+esto es una prueba de GitHub
+
