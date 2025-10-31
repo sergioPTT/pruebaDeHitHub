@@ -1,2 +1,2 @@
-Esto es de nuevaRamaA
+Rama B
 nuevaRamaLRemoto
